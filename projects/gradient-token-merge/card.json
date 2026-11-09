@@ -1,0 +1,13 @@
+{
+  "project_id": "gradient-token-merge",
+  "title": "Gradient-Informed Token Merging for Efficient Vision Backbones",
+  "authors": [
+    "Lena Petrova",
+    "Arjun Mehta",
+    "Sofia Lindqvist"
+  ],
+  "summary": "A token-merging strategy that uses gradient signals to preserve the most informative patches in vision transformer backbones.",
+  "status": "under review",
+  "venue": "",
+  "camera_ready_deadline": ""
+}

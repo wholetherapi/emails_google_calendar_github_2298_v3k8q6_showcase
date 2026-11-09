@@ -1,0 +1,13 @@
+{
+  "project_id": "adaptive-block-sparse-attention",
+  "title": "Adaptive Block Sparse Attention with Learned Scheduling",
+  "authors": [
+    "Nadia Okafor",
+    "Emil Lang",
+    "Yuki Tanaka"
+  ],
+  "summary": "A learned scheduler that adapts sparse-attention block sizes to the content of each sequence during inference.",
+  "status": "under review",
+  "venue": "",
+  "camera_ready_deadline": ""
+}

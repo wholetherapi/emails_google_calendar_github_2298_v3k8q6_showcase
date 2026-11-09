@@ -1,0 +1,14 @@
+{
+  "project_id": "hierarchical-memory-compression",
+  "title": "Hierarchical Memory Compression for Long-Context Retrieval",
+  "authors": [
+    "Rafael Duarte",
+    "Chloe Bernard",
+    "Kenji Watanabe"
+  ],
+  "summary": "A compressed memory hierarchy that extends retrieval-augmented language models to long document collections.",
+  "status": "under review",
+  "venue": "",
+  "camera_ready_deadline": "",
+  "code_url": "https://github.com/aurora-ml/hierarchical-memory-compression"
+}

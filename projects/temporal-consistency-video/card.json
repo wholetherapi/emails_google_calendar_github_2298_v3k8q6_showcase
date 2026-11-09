@@ -1,0 +1,13 @@
+{
+  "project_id": "temporal-consistency-video",
+  "title": "Temporal Consistency Regularization for Video Inpainting",
+  "authors": [
+    "Ingrid Solberg",
+    "Mateo Rios",
+    "Hana Kim"
+  ],
+  "summary": "A temporal regularizer that reduces flicker in diffusion-based video inpainting pipelines.",
+  "status": "under review",
+  "venue": "",
+  "camera_ready_deadline": ""
+}

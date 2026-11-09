@@ -1,0 +1,13 @@
+{
+  "project_id": "low-resource-speech-transfer",
+  "title": "Self-Supervised Pretraining for Low-Resource Speech Translation",
+  "authors": [
+    "Marta Kowalczyk",
+    "Idris Bello",
+    "Anna Weiss"
+  ],
+  "summary": "Contrastive pretraining recipes for speech translation in languages with fewer than ten hours of transcribed audio.",
+  "status": "under review",
+  "venue": "",
+  "camera_ready_deadline": ""
+}
