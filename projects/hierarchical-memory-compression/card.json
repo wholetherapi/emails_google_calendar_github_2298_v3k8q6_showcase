@@ -7,8 +7,8 @@
     "Kenji Watanabe"
   ],
   "summary": "A compressed memory hierarchy that extends retrieval-augmented language models to long document collections.",
-  "status": "accepted",
-  "venue": "SynapseComp 2025",
-  "camera_ready_deadline": "2025-07-02",
-  "code_url": "https://github.com/wholetherapi/emails_google_calendar_github_2298_v3k8q6_showcase/tree/main/projects/hierarchical-memory-compression/code"
+  "status": "under review",
+  "venue": "",
+  "camera_ready_deadline": "",
+  "code_url": "https://github.com/aurora-ml/hierarchical-memory-compression"
 }

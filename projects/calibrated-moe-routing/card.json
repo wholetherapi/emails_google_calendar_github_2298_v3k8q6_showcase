@@ -7,8 +7,7 @@
     "Tomas Ferreira"
   ],
   "summary": "A lightweight temperature adapter that calibrates mixture-of-experts routing decisions when evaluation data shifts away from training data.",
-  "status": "accepted",
-  "venue": "SynapseComp 2025",
-  "camera_ready_deadline": "2025-07-02",
-  "code_url": "https://github.com/wholetherapi/emails_google_calendar_github_2298_v3k8q6_showcase/tree/main/projects/calibrated-moe-routing/code"
+  "status": "under review",
+  "venue": "",
+  "camera_ready_deadline": ""
 }
