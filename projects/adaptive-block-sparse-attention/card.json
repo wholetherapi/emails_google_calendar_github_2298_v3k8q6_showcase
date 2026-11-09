@@ -7,7 +7,7 @@
     "Yuki Tanaka"
   ],
   "summary": "A learned scheduler that adapts sparse-attention block sizes to the content of each sequence during inference.",
-  "status": "under review",
-  "venue": "",
-  "camera_ready_deadline": ""
+  "status": "accepted",
+  "venue": "SynapseComp 2025",
+  "camera_ready_deadline": "2025-07-02"
 }
